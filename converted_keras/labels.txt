@@ -1,0 +1,7 @@
+0 Default
+1 Merhaba
+2 Nasilsin?
+3 Adin ne?
+4 Gule Gule
+5 Komik
+6 Sag ol
